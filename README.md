@@ -1,5 +1,8 @@
+HOSUHUJKHJAJKSAKSSNZNKHSJH
+
 # memoji_fer2013
 FER2013 challenge. 
+changed
 
 ## Architecture
 Image -> conv2d -> (custom_resnet_block x2 + conv2d) x4 -> conv2d -> fc -> output
